@@ -1,4 +1,4 @@
-<p align="center"><img src="[image.png](https://fbis.ukdw.ac.id/wp-content/uploads/2021/06/Logo_UKDW_big.png)" width="400"></a></p>
+<p align="center"><img src="[image.png](https://fbis.ukdw.ac.id/wp-content/uploads/2021/06/Logo_UKDW_big.png)" width="400"></p>
 
 ## About Laravel
 
