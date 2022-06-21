@@ -13,4 +13,5 @@ Aplikasi yang digunakan untuk sebuah Back-End data mahasiswa.
 ## Tampilan yang ada di aplikasi:
 - Tampilan Login user
 - Tampilan Dashboard
+- Tampilan Mahasiswa
 - Tampilan Create and Update Data
